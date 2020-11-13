@@ -1,0 +1,8 @@
+Para configurar a data do documento vá no xampp
+
+ative o apache > config > php.ini > cole o arquivo "atualizacao hora" no local do padrão
+
+Caso o número da ordem de serviço esteja errado vá até dependencias > gerador_os > numero_os (txt) e altere para 1 ou
+para o valor desejado
+
+caso não exista crie um arquivo chamado "numero_os" com valor 1 ou desejado

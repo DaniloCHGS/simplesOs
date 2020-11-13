@@ -1,0 +1,1 @@
+window.ordemServico = new OrdemServicoController();

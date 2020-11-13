@@ -1,0 +1,1 @@
+window.configuracao = new ConfiguracaoController();

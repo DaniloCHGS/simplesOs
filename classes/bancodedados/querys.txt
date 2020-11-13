@@ -1,0 +1,18 @@
+create database simplesos;
+
+create table cliente (
+    nome varchar(255) not null,
+    cpf int(11) not null primary key,
+    telefone int(9) not null,
+    endereco varchar(255) not null,
+    descricao varchar(255)
+)
+create table usuario(
+	id int(11) not null primary key AUTO_INCREMENT,
+    nome varchar(50) not null,
+    email varchar(100) not null,
+    senha varchar(32) not null,
+    nivel_sistema int(2) not null,
+    ativo boolean
+);
+insert into usuario(id, nome, email, senha, nivel_sistema, ativo)values(1, "Admin", "admin@simplesos.com", "admin", 2, false);

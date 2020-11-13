@@ -1,0 +1,1 @@
+window.acesso = new AcessoController();

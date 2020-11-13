@@ -1,0 +1,39 @@
+**Gerador de ordem de serviços**
+
+Danilo Chagas de Paula
+danilochagasbm@gmail.com
+
+Sistema criado para gerar ordem de serviços
+ver 1.1.1
+
+Contem orientaçao a obj
+Conexao com database
+
+Estrutura basica de ordem de pastas
+
+Utilizado no Xampp
+
+Interface gerada em bootstrap 3 em pasta local
+
+Sistema funciona em topdown. A aplicaçao da orientaçao a objs serve para implementaçes futuras
+
+**Melhorias proximas**
+
+Aba de configuraçao para maior flexibilidade ao usuario
+
+Logo da empresa
+
+Dados finais (como cnpj) da empresa
+
+Estrutura MVC
+
+Aplicação avançada em JS
+
+Pasta padrão para salvar arquivos
+
+Gerador de numeração de os
+
+**Depedencias**
+
+Bootstrap 3 - pasta local
+Dompdf - biblioteca para renderizar uma pagina html e converter em pdf -
